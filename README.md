@@ -16,7 +16,7 @@ Computer Engineering @ Georgia Tech
 - 📚 **Readable - AI-Powered Reading Companion** (AI ATL Hackathon 2024)
 - 📷 **BetterMe.AI** - AI-Powered self-improvement platform
 - 🏥 **GTRI CIPHER** - mmWave radar system for nurse tracking using gait analysis
-- 🛠️ **GTRI Advanced Concepts Lab** - Patent-pending tactical gloves project (US63/390087)
+- 🛠️ **GTRI Advanced Concepts Lab** - Patented tactical gloves project (US12229339)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
