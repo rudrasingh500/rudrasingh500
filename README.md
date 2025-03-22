@@ -23,3 +23,6 @@ Computer Engineering @ Georgia Tech
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rudrasingh500&icon=1&color=0)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rudrasingh500&icon=1&color=0)](https://visitcount.itsvg.in)
